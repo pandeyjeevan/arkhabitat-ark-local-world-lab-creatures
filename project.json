@@ -1,0 +1,41 @@
+{
+  "id": 26,
+  "category": "game-offline",
+  "slug": "ark-local-world-lab",
+  "target": "ARK: Survival Ascended",
+  "appid": "2399830",
+  "summaryRu": "Проект помощника настройки ресурсов и развития в собственном одиночном мире.",
+  "features": [
+    "Local progression presets",
+    "Taming budget worksheets",
+    "World restore checklist"
+  ],
+  "title": "ArkHabitat — ARK: Survival Ascended — Creatures",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "ArkHabitat",
+  "repositoryName": "arkhabitat-ark-local-world-lab-creatures",
+  "githubTopics": [
+    "ark-survival-ascended",
+    "local-world",
+    "progression-planning",
+    "taming-budget",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "creatures"
+}
